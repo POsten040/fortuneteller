@@ -1,11 +1,11 @@
-# What Programming Language is for You Webpage
+# Fortune Teller Website 
 
-#### **This webpage is a fortune telling webpage done as a practice project. ###
-#### Patrick Osten, Riley McAdoo, Ryland Adams, 10/23/2020**
+#### This webpage is a fortune telling webpage done as a practice project. ###
+#### Patrick Osten, Riley McAdoo, Ryland Adams, 10/23/2020
 
-**[Github Repo(https://github.com/POsten040/fortuneteller)**
+**[Github Repo](https://github.com/POsten040/fortuneteller)**
 
-## Description
+## Description ##
 
 This project is a practice project done with two other contributors for Epicodus coding bootcamp. It reveals a fortune depending on which boxes are checked in reponse to the questions.
 
