@@ -1,4 +1,4 @@
-# Fortune Teller Website 
+# Fortune Telling Website 
 
 #### This webpage is a fortune telling webpage done as a practice project. ###
 #### Patrick Osten, Riley McAdoo, Ryland Adams, 10/23/2020
@@ -22,7 +22,7 @@ This project is a practice project done with two other contributors for Epicodus
 #### From the web
 1. Go to this [GitHub Repo Page](https://github.com/POsten040/week-2-project).
 2. Click the "Code" and click the 'Download zip' option.
-3. Unzip the file, navigate to the root directory (week-1-project folder).
+3. Unzip the file, navigate to the root directory.
 4. opent the 'index.html' file with your web browser.
 
 --or--
